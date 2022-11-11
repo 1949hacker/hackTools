@@ -5,3 +5,13 @@
 [小白的博客](https://1949hacker.cn)
 
 >大佬们就别攻击这个博客了，就是个静态页面，还是github pages的
+
+工具列表：
+
+[TOC]
+
+## hack_phpmyadmin
+
+目前只能单线程扫描有phpmyadmin的网站，并尝试使用root登录
+后续将开发多线程并使用字典进行扫描
+并会优化使用体验
