@@ -8,8 +8,6 @@
 
 工具列表：
 
-[TOC]
-
 ## hack_phpmyadmin
 
 目前只能单线程扫描有phpmyadmin的网站，并尝试使用root登录
